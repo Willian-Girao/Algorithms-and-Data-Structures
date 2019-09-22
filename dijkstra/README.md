@@ -1,5 +1,3 @@
-# Content
-
 A Python implementation for the Dijkstra's shortest path algorithm.
 
 # Dijkstra's Algorithm
