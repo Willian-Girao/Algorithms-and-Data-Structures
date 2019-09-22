@@ -6,13 +6,13 @@ This is a **work in progress** and thus will be continuously updated.
 
 ## Content
 
+### Algorithms
+
+- [Dijkstra](https://github.com/Willian-Girao/ADS/blob/master/dijkstra/README.md)
+- [Quicksort](https://github.com/Willian-Girao/ADS/blob/master/quicksort/README.md)
+- Graphs
+    - [Tutte's Theorem - Perfect Matchings]()
+
 ### Data Structures
 
 - [AVL Tree](https://github.com/Willian-Girao/ADS/blob/master/avl-tree/README.md)
-
-### Algorithms
-
-- Dijkstra
-- Quicksort
-- Graphs
-  - Tutte's Theorem - Perfect Matchings
