@@ -1,4 +1,3 @@
-# C Implementation of Tutte's Theorem
 A C implementation of Tutte's Theorem for checking Perfect Matchings in a graph.
 
 ## Matching
