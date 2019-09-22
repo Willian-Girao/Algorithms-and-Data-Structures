@@ -8,7 +8,7 @@ This is a **work in progress** and thus will be continuously updated.
 
 ### Data Structures
 
-- AVL Tree
+- AVL Tree [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 ### Algorithms
 
