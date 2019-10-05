@@ -16,3 +16,4 @@ This is a **work in progress** and thus will be continuously updated.
 ### Data Structures
 
 - [AVL Tree](https://github.com/Willian-Girao/ADS/blob/master/avl-tree/README.md)
+- [Binary Tree](https://github.com/Willian-Girao/Algorithms-and-Data-Structures/blob/master/binary-tree/README.md)
