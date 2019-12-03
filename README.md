@@ -18,3 +18,4 @@ This is a **work in progress** and thus will be continuously updated.
 - [AVL Tree](https://github.com/Willian-Girao/ADS/blob/master/avl-tree/README.md)
 - [Binary Tree](https://github.com/Willian-Girao/Algorithms-and-Data-Structures/blob/master/binary-tree/README.md)
 - [Hash Table](https://github.com/Willian-Girao/Algorithms-and-Data-Structures/blob/master/hash-table/README.md)
+- Linked-List
